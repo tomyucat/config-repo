@@ -7,7 +7,7 @@ spring:
     url: jdbc:mysql://119.23.72.193:3306/yundesk?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
     username: usernameforU
     password: mYpassword!4
-  jpa:
+   jpa:
     show-sql: true
     database-platform: org.hibernate.dialect.MySQLDialect
 env: test
