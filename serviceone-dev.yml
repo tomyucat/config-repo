@@ -11,4 +11,4 @@ spring:
     port: 5672
     username: guest
     password: guest
-env: dev6
+env: dev5
